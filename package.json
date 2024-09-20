@@ -1,0 +1,20 @@
+{
+  "name": "devinder",
+  "version": "1.0.0",
+  "description": "Tinder for dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "npx nodemon src/app.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript"
+  ],
+  "author": "Avinash Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.6"
+  }
+}
